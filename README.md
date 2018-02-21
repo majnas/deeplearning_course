@@ -1,8 +1,9 @@
-# deeplearning_course
+## deeplearning_course
+Deep Learning with TensorFlow Course at Shahid Rajaee Teature Training University (SRTTU)
 
-### Network Architecture
-| Section | Layer Type | Shape |
-| --- | --- | --- |
-| Encoder | image | 28x28x1 |
-| Encoder | conv | 28x28x24 |
-| Encoder | pool | 14x14x24 |
+## Resources
+|Week|Slides|Screen Captures|
+|:--:|:----------:|:-------------:|
+|1|||
+|2|||
+|3|||

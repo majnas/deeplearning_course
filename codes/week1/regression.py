@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------#
 # coder: Majid Nasiri
-# github: https://github.com/m-nasiri/tensorflow/blob/master/basic/regression.py
+# github: https://github.com/m-nasiri/
 # date: 2018-Feb-11            
 #-----------------------------------------------------------------------------#
 

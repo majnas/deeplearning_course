@@ -4,6 +4,6 @@ Deep Learning with TensorFlow Course at Shahid Rajaee Teature Training Universit
 ## Resources
 |Week|Slides|Screen Captures|
 |:--:|:----------:|:-------------:|
-|1|||
+|1|[Slide](https://github.com/m-nasiri/deeplearning_course/blob/master/slides/P1.pptx)||
 |2|||
 |3|||

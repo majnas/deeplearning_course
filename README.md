@@ -1,5 +1,5 @@
 ## deeplearning_course
-Deep Learning with TensorFlow Course at Shahid Rajaee Teacher Training University (SRTTU)
+Deep Learning with TensorFlow and Python Course at Shahid Rajaee Teacher Training University (SRTTU)
 
 ## Resources
 |Week|Slides|Screen Captures|

@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------#
 # coder: Majid Nasiri
-# github: https://github.com/m-nasiri/tensorflow/blob/master/basic/mnist_cnn_dropout_summary.py
+# github: https://github.com/m-nasiri/
 # date: 2018-Feb-11            
 #-----------------------------------------------------------------------------#
 

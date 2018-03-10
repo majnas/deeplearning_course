@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------#
 # coder: Majid Nasiri
-# github: https://github.com/m-nasiri//mnist_mlp.py
+# github: https://github.com/m-nasiri/
 # date: 2018-March-1         
 #-----------------------------------------------------------------------------#
 
